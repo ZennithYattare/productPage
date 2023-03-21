@@ -4,7 +4,7 @@ import React from "react";
 
 const Cart = () => {
 	return (
-		<div className="mt-2 bg-gray-400 p-2 text-center text-[#f1f1f1]">
+		<div className="mt-2 bg-gray-400 p-2 text-center text-[#f1f1f1] transition-colors hover:bg-gray-900">
 			Add to Cart
 		</div>
 	);
