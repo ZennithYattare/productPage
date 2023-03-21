@@ -32,8 +32,8 @@ const Rating = (props) => {
 
 // if props.title is longer than 26 characters, append ellipses and shorten string to 26 characters
 const shortenTitle = (title) => {
-	if (title.length > 26) {
-		return title.substring(0, 26) + "...";
+	if (title.length > 48) {
+		return title.substring(0, 48) + "...";
 	} else {
 		return title;
 	}
@@ -49,7 +49,7 @@ const Product = (props) => {
 					alt={props.title}
 				/>
 			</div>
-			<div className="cursor-pointer transition-colors hover:text-[#1a9cb7]">
+			<div className="h-10 cursor-pointer text-[13px] transition-colors hover:text-[#1a9cb7]">
 				{shortenTitle(props.title)}
 			</div>
 			<div className="text-lg text-[#ee4d2d]">₱{props.price}</div>
