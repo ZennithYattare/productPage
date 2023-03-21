@@ -9,7 +9,11 @@ const Header = () => {
 				className="m-auto flex align-middle hover:cursor-pointer"
 				onClick={() => console.log("I was clicked")}
 			>
-				<img src="/vite.svg" className="inline-block" alt="Vite logo" />
+				<img
+					src="https://zennithyattare.github.io/productPage/vite.svg"
+					className="inline-block"
+					alt="Vite logo"
+				/>
 				<span className="ml-2 select-none text-3xl font-semibold">
 					Vite
 				</span>
