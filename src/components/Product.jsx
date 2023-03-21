@@ -32,7 +32,7 @@ const Rating = (props) => {
 
 const Product = (props) => {
 	return (
-		<div className="max-w-[230px cursor-pointer p-2 hover:shadow-[0px_0px_4px_1px_#a1a1aa]">
+		<div className="max-w-[230px] cursor-pointer p-2 transition hover:shadow-[0px_0px_4px_1px_#a1a1aa]">
 			<div>
 				<img
 					className="mx-auto h-48 w-48 object-contain"
