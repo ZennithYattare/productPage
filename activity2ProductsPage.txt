@@ -1,0 +1,26 @@
+design a product page in react.js by creating components and implementing props. submit a screenshot of the UI and the src folder (app.js and components folder).
+
+App:
+- <Header />
+- <Product />
+
+Header:
+- Header of a website:
+    - logo, etc.
+
+Product:
+- Product page:
+    - product image
+    - product name
+    - product price
+    - product description
+    - product rating
+    - product reviews
+    - ???
+- <Cart />
+
+Cart: 
+- Add to Cart button
+
+
+[activity 2.jpg](https://learn-ap-southeast-1-prod-fleet02-xythos.content.blackboardcdn.com/5a33b819beda5/185386814?X-Blackboard-S3-Bucket=learn-ap-southeast-1-prod-fleet02-xythos&X-Blackboard-Expiration=1679022000000&X-Blackboard-Signature=Fh%2FnBs%2FJ2SAwQjgbfWlJr%2FabYakyX1Tvc42lYUwY1mE%3D&X-Blackboard-Client-Id=970428&X-Blackboard-S3-Region=ap-southeast-1&response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27activity%25202.jpg&response-content-type=image%2Fjpeg&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFUaDmFwLXNvdXRoZWFzdC0xIkcwRQIgGSOjw4jeT2r%2FYmAzkRAII%2BPdfetE3tuBWfE50fWiOd8CIQDsyGBLvbkprrEh3qYf%2F6%2FA3X5TGz0UlAOL1GdsVhl8PyrDBQgeEAMaDDYzNTU2NzkyNDE4MyIM%2Bn77EQYCPhkcMMsbKqAF%2F7O%2BcoSn7nGAxn4Mh7a4y8TJ2OcuARlR6P%2FAD1PQfoWbAqrOzBghRLl%2FeZqstlarNYLR9h%2BVA%2FAmoqJ4aoIRg0uv07wBODRRd029DXhPx73ZIQxyjb1wWUOMGgg%2BRUMfC0aeSThpfVsyAXVW0I1%2FD5fedCDBZ0%2FVDpdyzuYt3embQF67Hm%2Bh8E7TafzQBZp5SgsP%2Bobq3rYEfBfJYtAA0yu01%2BWcL20hFTwkBG8yxIhNVJsIkmjrJChZz1TM1XwE3%2F3Hcai6rEGyXVDWl17n8%2FvYwFUeZ08HAFGmovvGkET2jSs4X7Pbqxa%2Fuux5HTRsbay3Qzq2WhYchZDeOe%2Fh06Z%2BZ0n7StdFAp%2FMSPsSg8PtHcpbPqDLK%2Fv%2Fa7dx4AwR888mCDAa7oV8wvn9Ii%2BPXUKDByfM7KzrHgqzecqsXIuoe3VGtCUcr00SifG7gW9aHN0WXNpPcdOoIrBLfA7U5Wowd%2FemqTp2pnVb8rQVIDDXH5wZQRMKv6Iw8yfpZWMBKZmtpwW7OyrDcU95Bo1H3Eg%2B%2BgD4aV8q%2BBTOeBerhn8pnI7%2FoW6Ny4tQK54KGYGNSpFVMtwutCZaSoGdo%2FZYOrceqI7wFAg3ruH%2FVi%2B4%2BzBQqoBA6ovGG%2Fk667%2BcKBCZrtesLSD2I0scn14WRjSCv1eYLOaK%2Bj5ZExRK95wabvI9sn40StaIK99AGCyXWakfYdkI2vp00xQCDgzKy%2F7yScY0AuMpwYOm6umsXeiAGmzWkvV%2FZPu1ve8gLOIuhaZ2vT7uI6YtG%2FwOLSF8N2CkoX18hjhwj4oEdiGxeKN0dFfYHVWOgVgjS367DnelOQAKOlMka10bATR7qtWNuSefC9Ix0YM%2FSeCl1hsI9XAVmjI8PBSXI9SQqLfA52x7%2FssfMPeDzqAGOrEBrgMJqr6KwR7ZNRg2mmT%2FR5SHDdd5S1ksInDWH2lm7u%2Bg60zX4%2BnEEFNYkr7%2BwcydW%2BkHWPewEQEYjyGLrhBKYcaVh%2B20cOhgU8tpMxlRaYbBzB6CWhQ%2FVBins0aod6qespoxXqzgSgQcP4vnMmdjFNOS69bkjAKinyBLjFJMUxXepf3BYPBoCY8Yirphpa2MGVWeXDYMUg6uBAd0C8rhg0nHl%2Fzn0oipXCmRP3uZGwyQ&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230316T210000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=ASIAZH6WM4PLQ67EMSF2%2F20230316%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Signature=1957ceaa90e46a5e15deea3827f9d3867a8914bf52baaec60072a0d2b225da3b)
